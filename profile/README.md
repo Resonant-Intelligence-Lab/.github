@@ -1,4 +1,4 @@
-## Hi there 👋
+## Vers3Dynamics
 
 # Therapeutic Audio Protocols
 
